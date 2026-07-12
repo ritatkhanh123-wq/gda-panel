@@ -6,5 +6,9 @@
   "VIP_ALBEDO_999X": {
     "type": "VIP",
     "expiry": "2026-12-31"
+  },
+  "VIP_ALBEDO": {
+    "type": "VIP",
+    "expiry": "2099-02-13"
   }
 }
