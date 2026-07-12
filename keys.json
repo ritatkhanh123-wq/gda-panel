@@ -1,4 +1,14 @@
 {
-  "FREE_H84GD8712B": { "type": "FREE", "expiry": "2026-07-20" },
-  "VIP_ALBEDO_999X": { "type": "VIP", "expiry": "2026-12-31" }
+  "FREE_H84GD8712B": {
+    "type": "FREE",
+    "expiry": "2026-07-20"
+  },
+  "VIP_ALBEDO_999X": {
+    "type": "VIP",
+    "expiry": "2026-12-31"
+  },
+  "VIP_ALBEDO": {
+    "type": "VIP",
+    "expiry": "2099-02-13"
+  }
 }
