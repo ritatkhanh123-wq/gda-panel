@@ -1,1 +1,6 @@
-{}
+{
+  "KEYAUTH-VIP_Albedo": {
+    "type": "VIP",
+    "expiry": "2099-02-13"
+  }
+}
